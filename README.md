@@ -1,1 +1,1 @@
-# potato-disease-app
+# mon-app-streamlit
